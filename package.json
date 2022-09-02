@@ -1,0 +1,23 @@
+{
+  "name": "typescript",
+  "version": "1.0.0",
+  "description": "My programming journey in TypeScript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LeooZeballos/typescript.git"
+  },
+  "keywords": [
+    "typescript",
+    "nodejs"
+  ],
+  "author": "Leonel Zeballos (zeballosleonel3@gmail.com)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/LeooZeballos/typescript/issues"
+  },
+  "homepage": "https://github.com/LeooZeballos/typescript#readme"
+}
