@@ -22,5 +22,8 @@
   "homepage": "https://github.com/LeooZeballos/typescript#readme",
   "devDependencies": {
     "typescript": "^4.8.2"
+  },
+  "dependencies": {
+    "ts-node": "^10.9.1"
   }
 }
