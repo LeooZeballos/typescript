@@ -17,7 +17,7 @@
 
     login({email: 'me@example.com', password: 123456});
 
-    const products: any[] = [];
+    const products: Product[] = [];
 
     const addProduct = (data: Product) => {
         products.push(data);
